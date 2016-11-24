@@ -12,6 +12,11 @@ h1{
     font-size: 35px;
 }
 
+table, th, td {
+    border: 1px solid black;
+}
+
+
 
 #wrapper {
     padding-left: 0;
